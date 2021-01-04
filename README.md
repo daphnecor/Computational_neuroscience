@@ -42,3 +42,5 @@
 ```
 Course instructor: Dr. Paul Tiesinga, Credits: 3 EC
 ```
+
+By Daphne Cornelisse & Kyra Evers
