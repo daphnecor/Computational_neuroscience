@@ -31,7 +31,7 @@
 ## Week 6: Visual system & Kohonen Maps
 
 - Human & animal visual systems 🧠
-- Kohonen maps
+- Kohonen maps (see [this article](https://towardsdatascience.com/kohonen-self-organizing-maps-a29040d688da) and [this visualisation](http://complexity-explorables.org/explorables/yo-kohonen/))
 
 ## Week 7: Firing rate models
 
