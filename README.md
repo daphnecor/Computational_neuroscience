@@ -1,5 +1,9 @@
 # Advanced Computational Neuroscience 
 
+```
+Course instructors: Dr. Paul Tiesinga & Dr. Hilbert Kappen, Credits: 6 EC
+```
+
 ## Week 1: Noisy neural responses
 - Drift diffusion model
 - IF neuron
@@ -9,6 +13,10 @@
 
 
 # Computational Neuroscience 
+
+```
+Course instructor: Dr. Paul Tiesinga, Credits: 3 EC
+```
 
 ## Week 1: Nonlinear Dynamics I 
 
@@ -49,8 +57,3 @@
 - Examples of firing rate models
 - More applications of firing models
 
-```
-Course instructor: Dr. Paul Tiesinga, Credits: 3 EC
-```
-
-By Daphne Cornelisse & Kyra Evers
