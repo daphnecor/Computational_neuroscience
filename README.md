@@ -1,4 +1,14 @@
-# Computational neuroscience
+# Advanced Computational Neuroscience 
+
+## Week 1: Noisy neural responses
+- Drift diffusion model
+- IF neuron
+- First Passage time
+
+## Week 2: ...
+
+
+# Computational Neuroscience 
 
 ## Week 1: Nonlinear Dynamics I 
 
