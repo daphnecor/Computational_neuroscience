@@ -1,21 +1,23 @@
 # Advanced Computational Neuroscience 
 
 ```
-Course instructors: Dr. Paul Tiesinga & Dr. Hilbert Kappen, Credits: 6 EC
+Course instructors: Prof. Paul Tiesinga & Prof. Hilbert Kappen, Credits: 6 EC
 ```
 
 ## Week 1: Noisy neural responses
+- Modelling spike trains with a Poisson process
 - Drift diffusion model
-- IF neuron
-- First Passage time
+- The integrate-and-fire neuron
+- First Passage Times (FPTs)
 
-## Week 2: ...
-
+## Week 2: Sparse visual coding
+- Sparsity in the brain
+- Stochastic neural networks
 
 # Computational Neuroscience 
 
 ```
-Course instructor: Dr. Paul Tiesinga, Credits: 3 EC
+Course instructor: Prof. Paul Tiesinga, Credits: 3 EC
 ```
 
 ## Week 1: Nonlinear Dynamics I 
@@ -42,7 +44,7 @@ Course instructor: Dr. Paul Tiesinga, Credits: 3 EC
 ## Week 5: Information theory
 
 - Entropy
-- Information theoryv
+- Information theory
 - Bias in estimators
 - Bias correction methods
 
